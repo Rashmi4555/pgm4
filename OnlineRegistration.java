@@ -19,6 +19,7 @@ class Student {
 
     void displayInfo() {
         System.out.println("Online Registration");
+         System.out.println("Online Registration Details");
         System.out.println("Student Name: " + name);
         System.out.println("Program: " + program);
         System.out.println("Semester: " + semester);
